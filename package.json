@@ -1,6 +1,6 @@
 {
   "name": "svelte-repel-cursor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The svelte-repel-cursor provider a action of svelte that repel do it the element repel the cursor",
   "main": "./dist/main.js",
   "require": "./dist/main.js",
@@ -26,8 +26,6 @@
     "url": "https://github.com/JuanDAC/power-styles/issues"
   },
   "homepage": "https://github.com/JuanDAC/power-styles#readme",
-  "dependencies": {
-  },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
     "@babel/core": "^7.16.0",
